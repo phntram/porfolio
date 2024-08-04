@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Movie",
+        "imageSrc": "project_1.png",
+        "description": "Movie Streaming - Netflix clone",
+        "link": "https://github.com/phntram/mern-netflix-clone"
+    },
+    {
+        "title": "Chat",
+        "imageSrc": "project_2.png",
+        "description": "Chat app",
+        "link": "#"
+    },
+    {
+        "title": "Order",
+        "imageSrc": "project_3.png",
+        "description": "Food Order app",
+        "link": "#"
+    },
+    {
+        "title": "Music",
+        "imageSrc": "project_4.png",
+        "description": "Music Streaming - Spotify clone",
+        "link": "#"
+    }
+]
