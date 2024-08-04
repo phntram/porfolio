@@ -35,18 +35,15 @@ export const Hero = () => {
                     <a href="mailto:nguyettram10@gmail.com" target='_blank'>
                         <img src={mailIcon} alt="Mail Icon" />
                     </a>
-                </span>
-                <span>
                     <a href="https://github.com/phntram/porfolio" target='_blank'>
                         <img src={githubIcon} alt="Github Icon" />
                     </a>
-                </span>
-                <span>
                     <a href="https://www.linkedin.com/in/tram-pham-tp1010/" target='_blank'>
                         <img src={linkedinIcon} alt="LinkedIn Icon" />
                     </a>
                 </span>
-                <p>
+
+                <p className={styles.description}>
                     With a passion for developing modern dynamic and responsive web applications.
                 </p>
                 <a href={CV} download={true}>
