@@ -8,7 +8,7 @@ import linkedinLightIcon from '../../assets/linkedin-light.svg';
 import linkedinDarkIcon from '../../assets/linkedin-dark.svg';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
-import CV from '../../assets/CV.pdf';
+import CV from '../../assets/CV_PhamHoangNguyetTram.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 export const Hero = () => {
@@ -44,7 +44,7 @@ export const Hero = () => {
                 </span>
 
                 <p className={styles.description}>
-                    With a passion for developing modern dynamic and responsive web applications.
+                    With a passion for developing modern, dynamic, and responsive web applications.
                 </p>
                 <a href={CV} download={true}>
                     <button className='hover'>Resume</button>
